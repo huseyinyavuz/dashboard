@@ -1,0 +1,41 @@
+.PROFILE_SPESIFIC_TOP_CONT{
+    display: flex;
+    flex-direction: row;
+}
+
+.PROFILE_SPESIFIC_TOP_INFO{
+    display: flex;
+    flex-direction: column;
+}
+
+.PROFILE_SPESIFIC_TOP_AVATAR{
+
+}
+
+.PROFILE_SPESIFIC_NAME{
+
+}
+
+.PROFILE_SPESIFIC_RANK{
+
+}
+
+.PROFILE_SPESIFIC_NICK{
+    
+}
+
+.PROFILE_SPESIFIC_TOP_KDA{
+
+}
+
+.PROFILE_SPESIFIC_WINRATE{
+
+}
+
+.PROFILE_SPESIFIC_WINLOSS{
+
+}
+
+.PROFILE_SPESIFIC_CS{
+    
+}

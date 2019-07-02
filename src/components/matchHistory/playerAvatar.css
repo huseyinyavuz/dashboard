@@ -1,0 +1,24 @@
+.AVATAR_CONT{
+    display: flex;
+    flex-direction: row;
+    width: 136px;
+    height: 50px;
+    align-content: center;
+    justify-content: center;
+}
+
+.AVATAR_IMG_CONT{
+   max-width: 50px;
+   max-height: 50px;
+}
+
+.AVATAR_PROPS_CONT{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.AVATAR_PROP_CONT{
+    max-width: 20px;
+    max-height: 20px;
+}

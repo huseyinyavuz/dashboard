@@ -1,0 +1,7 @@
+.MATCH_HISTORY_CONT{
+    display: flex;
+    flex-direction: row;
+    max-width: 1024px;
+    width: 100%;
+    height: 100px;
+}

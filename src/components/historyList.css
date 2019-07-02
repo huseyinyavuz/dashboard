@@ -1,0 +1,12 @@
+.MATCH_LIST_ITEM:nth-child(odd){
+    background-color: #495263;
+}
+
+.MATCH_LIST_ITEM{
+    height: 100px;
+}
+
+.HISTORY_LIST_CONT{
+    max-height: 850px;
+    overflow: scroll;
+}

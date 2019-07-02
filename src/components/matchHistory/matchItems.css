@@ -1,0 +1,11 @@
+.MATCH_ITEMS_CONT{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 136px;
+}
+
+.MATCH_ITEM_IMG{
+    max-width: 15px;
+    max-height: 15px;
+}

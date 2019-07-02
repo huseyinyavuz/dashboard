@@ -1,0 +1,13 @@
+.MATCH_LINKS_CONT{
+    display: flex;
+    flex-direction: column;
+    width: 136px;
+}
+
+.ANALYSIS_CONT{
+    color: #4d8e3e;
+}
+
+.DETAILS_CONT{
+    color: #ef9732;
+}

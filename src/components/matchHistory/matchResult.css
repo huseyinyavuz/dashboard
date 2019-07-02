@@ -1,0 +1,23 @@
+.MATCH_RESULT_CONT{
+    display: flex;
+    flex-direction: row;
+    width: 204px;
+}
+
+.RESULT_CONT{
+    display: inline-flex;
+   
+    /*transform: rotate(-90deg);*/
+}
+
+.MATCH_STATUS_CONT{
+
+}
+
+.MATCH_DURATION_CONT{
+
+}
+
+.MATCH_TIME_CONT{
+
+}

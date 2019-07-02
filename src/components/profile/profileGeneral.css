@@ -1,0 +1,26 @@
+.PROFILE_GENERAL_CONT{
+    display: flex;
+    flex-direction: row;
+    cursor: pointer;
+}
+
+.PROFILE_GENERAL_CONT img{
+    border-radius: 50%;
+}
+
+.PROFILE_GENERAL_AVATAR{
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.PROFILE_GENERAL_NAME{
+    width: 136px;
+}
+
+.PROFILE_GENERAL_KDA{
+    width: 136px;
+}
+
+.PROFILE_GENERAL_WINRATE{
+    width: 136px;   
+}
